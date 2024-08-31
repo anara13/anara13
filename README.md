@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on building an e-commerce platform with Laravel
+- 🌱 I’m currently learning about Laravel
 <!--
 **anara13/anara13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
